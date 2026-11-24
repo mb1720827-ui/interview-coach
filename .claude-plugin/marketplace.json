@@ -1,0 +1,14 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "interview-coach",
+  "description": "Practise explaining your own code before a real interview.",
+  "owner": { "name": "Ogundipe Peter Temiloluwa", "url": "https://github.com/mb1720827-ui" },
+  "plugins": [
+    {
+      "name": "interview-coach",
+      "description": "Mock technical interviews on your own repositories, with grading and a study plan.",
+      "source": "./",
+      "category": "productivity"
+    }
+  ]
+}

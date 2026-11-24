@@ -1,0 +1,10 @@
+{
+  "name": "interview-coach",
+  "description": "Mock technical interviews on your own repositories: grounded questions, honest grading, a study plan and progress tracking across sessions.",
+  "version": "0.1.0",
+  "author": { "name": "Ogundipe Peter Temiloluwa", "url": "https://github.com/mb1720827-ui" },
+  "homepage": "https://github.com/mb1720827-ui/interview-coach",
+  "repository": "https://github.com/mb1720827-ui/interview-coach",
+  "license": "MIT",
+  "keywords": ["interview", "job-search", "portfolio", "learning", "vibe-coding"]
+}
